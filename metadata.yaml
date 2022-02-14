@@ -1,0 +1,31 @@
+_repo: The-United-Empire-Loyalists-A-Chronicle-of-the-Great-Migration_67356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, W. Stewart (William Stewart)
+    aliases:
+    - Wallace, W. S. (William Stewart)
+    - Wallace, William Stewart
+    birthdate: 1884
+    deathdate: 1970
+    gutenberg_agent_id: '4156'
+    url: http://www.gutenberg.org/2009/agents/4156
+    wikipedia: https://en.wikipedia.org/wiki/William_Stewart_Wallace
+description: ''
+gutenberg_issued: '2022-02-07'
+identifiers:
+  gutenberg: '67356'
+language: en
+pgterms:marc905: 20080123165428wallace
+pgterms:marc906: '1920'
+pgterms:marc907: CA
+production_note: Marcia Brooks, Iona Vaughan, James Wright and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: Canada :Glascow, Brook & Company,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The United Empire Loyalists: A Chronicle of the Great Migration'
+url: http://www.gutenberg.org/ebooks/67356
